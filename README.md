@@ -1,13 +1,9 @@
 # I'm ChunXin 👋
 
-### - I am a 21-year-old Chinese
-
-<img width="250" src="https://github.com/yudazuizui/yudazuizui/blob/master/pic/hhh.gif" align="right">
-
 ### - Learning And Advanced  :
 - ✨ Vue3
 - ✨ React 
-- ✨ Vite
+- ✨ Node
 
 # Knowledge system 👨‍💻 🛠:
 </br>
@@ -15,4 +11,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/html.svg>
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/css3.svg>
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/js.svg>
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/vue.svg>
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/react.svg >
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/nodejs.svg>
+<https://github.com/yudazuizui/yudazuizui/blob/master/assets/twitter.svg>
 </br>

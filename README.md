@@ -1,11 +1,15 @@
 # I'm ChunXin 👋
-
+# About ME 💬 :
+### - I am a 21-year-old college student.
 ### - Learning And Advanced  :
 - ✨ Vue3
-- ✨ React 
-- ✨ Node
-
-# Knowledge system 👨‍💻 🛠:
+- 🐟 React 
+- 💎 Node
+### - Hobbis :
+- ☀️ Watching movies
+- 🎾 Playing table tennis 
+- 🌴 Travelling
+# Knowledge system  🛠:
 </br>
 
 <p align="center">

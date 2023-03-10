@@ -9,7 +9,7 @@
 - ☀️ Watching movies
 - 🎾 Playing table tennis 
 - 🌴 Travelling
-# Knowledge system  🛠:
+# Knowledge System  🛠:
 </br>
 
 <p align="center">

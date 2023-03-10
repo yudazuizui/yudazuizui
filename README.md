@@ -21,5 +21,4 @@
 <img src="https://github.com/yudazuizui/yudazuizui/blob/master/assets/vue.svg" alt="vue">
 <img src="https://github.com/yudazuizui/yudazuizui/blob/master/assets/react.svg" alt="react">
 <img src="https://github.com/yudazuizui/yudazuizui/blob/master/assets/nodejs.svg" alt="node_js">
-<img src="https://github.com/yudazuizui/yudazuizui/blob/master/assets/twitter.svg" alt="twitter">
 </br>

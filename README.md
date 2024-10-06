@@ -1,6 +1,6 @@
 # I'm BoyXin 👋
 # About ME 💬 :
-### - I am a 21-year-old college student.
+### - I am a 22-year-old college student.
 ### - Learning And Advanced  :
 - ✨ Vue3
 - 🐟 React 
